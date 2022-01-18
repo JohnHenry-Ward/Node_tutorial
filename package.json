@@ -1,0 +1,26 @@
+{
+  "name": "node_tutorial",
+  "version": "1.0.0",
+  "description": "node tutorial!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnHenry-Ward/Node_tutorial.git"
+  },
+  "author": "JHSW",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnHenry-Ward/Node_tutorial/issues"
+  },
+  "homepage": "https://github.com/JohnHenry-Ward/Node_tutorial#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
